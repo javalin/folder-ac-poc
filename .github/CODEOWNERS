@@ -8,19 +8,19 @@
 *       @zugazagoitia
 
 # dzi
-/dzi/   @dzikoysk
+/dzi/   @dzikoysk [dzi's changes]
 
 # tipsy
-/tipsy/ @tipsy
+/tipsy/ @tipsy [tipsy's changes]
 
-/src/sensitive/ @zugazagoitia
+/src/sensitive/ @zugazagoitia [SENSITIVE]
 /.github/ @zugazagoitia
 
 # Teams can be specified as code owners as well. Teams should
 # be identified in the format @org/team-name. Teams must have
 # explicit write access to the repository. In this example,
 # the octocats team in the octo-org organization owns all .txt files.
-*.txt @javalin/moderators
+*.txt @javalin/moderators [moderators]
 
 # You can also use email addresses if you prefer. They'll be
 # used to look up users just like we do for commit author
